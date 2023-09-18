@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Moxicution&label=Profile%20views&color=0e75b6&style=flat-square" alt="Moxicution" />
+  <img src="https://img.shields.io/github/last-commit/Moxicution/Moxicution/master?label=Last%20updated%20this%20page&style=flat-square" alt="Moxicution" />
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
