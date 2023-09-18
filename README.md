@@ -1,7 +1,8 @@
 <h3 align="center">👋 Hi there! I'm Carlos</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moxicution&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+  [![](https://img.shields.io/badge/-@Moxicution-%23181717?style=flat-square&logo=github)](https://github.com/Moxicution)
+  <img src="https://komarev.com/ghpvc/?username=Moxicution&label=Profile%20views&color=0e75b6&style=flat" alt="Moxicution" />
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
